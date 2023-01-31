@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TallerKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-01-23T18:11:22" hostname="JIAPC" time="0.038">
+  <properties/>
+  <testcase name="numeroDeElectricistas()" classname="TallerKtTest" time="0.03"/>
+  <testcase name="numeroNavajasSuizasTest()" classname="TallerKtTest" time="0.001"/>
+  <testcase name="numeroDeTrabajadoresNormales()" classname="TallerKtTest" time="0.001"/>
+  <testcase name="numeroJefeTaller()" classname="TallerKtTest" time="0.001"/>
+  <testcase name="numeroDeChapistas()" classname="TallerKtTest" time="0.001"/>
+  <system-out><![CDATA[El numero de electricistas es de 1
+El numero de navajas suizas es de 1
+El numero de chapistas es de 1
+El numero de electricistas es de 1
+Por lo que el numero de trabajadores normales sin contar a los chapistas y electricistas es de -1
+El numero de jefes de taller que hay en el total es de 2
+El numero de chapistas es de 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
